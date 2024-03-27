@@ -3,3 +3,5 @@ In this tutorial we are learning to create and merge branches as well as includi
 
 
 This is a change done from Feature branch
+
+Creating conflict part 2
